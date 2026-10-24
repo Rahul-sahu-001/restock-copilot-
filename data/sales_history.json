@@ -1,0 +1,11 @@
+{
+  "shop_name": "रमेश किराना स्टोर",
+  "upcoming_festival": {"name": "Diwali", "multiplier": 1.3},
+  "items": {
+    "rice":  {"unit": "kg",    "avg_weekly_sales": 40, "current_stock": 12, "pack_size": 5},
+    "atta":  {"unit": "kg",    "avg_weekly_sales": 60, "current_stock": 25, "pack_size": 10},
+    "sugar": {"unit": "kg",    "avg_weekly_sales": 30, "current_stock": 30, "pack_size": 5},
+    "oil":   {"unit": "litre", "avg_weekly_sales": 25, "current_stock": 6,  "pack_size": 5},
+    "dal":   {"unit": "kg",    "avg_weekly_sales": 20, "current_stock": 4,  "pack_size": 5}
+  }
+}

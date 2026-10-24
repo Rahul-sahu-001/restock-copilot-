@@ -1,0 +1,9 @@
+{
+  "prices": {
+    "rice":  {"Sharma Wholesale": 48.0, "Gupta Traders": 46.0, "Kisan Mandi Direct": 47.5},
+    "atta":  {"Sharma Wholesale": 39.0, "Gupta Traders": 41.0, "Kisan Mandi Direct": 38.5},
+    "sugar": {"Sharma Wholesale": 44.0, "Gupta Traders": 43.0, "Kisan Mandi Direct": 45.0},
+    "oil":   {"Sharma Wholesale": 128.0, "Gupta Traders": 131.0, "Kisan Mandi Direct": 126.5},
+    "dal":   {"Sharma Wholesale": 112.0, "Gupta Traders": 109.0, "Kisan Mandi Direct": 111.0}
+  }
+}
